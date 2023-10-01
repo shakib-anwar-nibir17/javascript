@@ -14,3 +14,5 @@ for (let i = numbers.length - 1; i >= 0; i--) {
 const numbers3 = [1, 2, 3, 4, 5];
 const num4 = numbers3.reverse();
 console.log(num4);
+
+//read more: https://www.freecodecamp.org/news/how-to-reverse-an-array-in-javascript-js-reverse-function/
